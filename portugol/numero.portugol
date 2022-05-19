@@ -3,12 +3,12 @@ programa{
    {
       inteiro numero
       escreva("Digite um número inteiro: ")
-      lei(numero)
+      leia(numero)
       escreva("O número digitado foi: ", numero, "\n")
 
       inteiro numero2 
       escreva("Digite um número inteiro: ")
-      lei(numero2)
+      leia(numero2)
       escreva("O número digitado foi: ", numero2, "\n")
    }
 }
