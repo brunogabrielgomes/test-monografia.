@@ -1,14 +1,14 @@
 programa{
    funcao inicio ()
    {
-      inteiro numero
+      inteiro num1
       escreva("Digite um número inteiro: ")
-      leia(numero)
-      escreva("O número digitado foi: ", numero, "\n")
+      leia(num1)
+      escreva("O número digitado foi: ", num1, "\n")
 
-      inteiro numero2 
+      inteiro num2 
       escreva("Digite um número inteiro: ")
-      leia(numero2)
-      escreva("O número digitado foi: ", numero2, "\n")
+      leia(num2)
+      escreva("O número digitado foi: ", num2, "\n")
    }
 }
