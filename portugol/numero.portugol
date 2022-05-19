@@ -1,0 +1,9 @@
+programa{
+   funcao inicio ()
+   {
+      inteiro numero
+      escreva("Digite um número inteiro: ")
+      lei(numero)
+      escreva("O número digitado foi: ", numero, "\n")
+   }
+}
